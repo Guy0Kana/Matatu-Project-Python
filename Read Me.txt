@@ -1,0 +1,5 @@
+This was the first game I ever made in python. 
+I made it last year and it's due for some changes especially in the collision-detection section. 
+I'm a frequent user of public transport, so I thought I'd model a game after an integral part of my day. 
+I'll probably add music, a scoring system and scoreboard, brakes and speed and revamp the graphics later. 
+Any comments or input is greatly appreciated.
